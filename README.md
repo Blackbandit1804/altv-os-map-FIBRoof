@@ -1,4 +1,4 @@
-![](https://i.imgur.com/5KRMpaA.jpeg)
+![](https://i.imgur.com/rYb0vZJ.jpg)
 
 # Open Source Map - FIB Roof - alt:V
 Added an exit/enter door to the roof and added a helipad.
